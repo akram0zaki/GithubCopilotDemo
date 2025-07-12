@@ -13,7 +13,7 @@
 - support a --config argument to read API key from JSON or .env
 - implement --slack flag to send alerts via Slack webhook
 
-# Usability
+## Usability
 - add color-coded output for status: green for OK, red for errors
 - print a summary line at the end: X services up, Y down
 - log to a file if --log flag is provided
