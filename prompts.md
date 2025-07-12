@@ -1,7 +1,7 @@
 
 # Prompts for Copilot
 
-# Setup and Documentation
+## Setup and Documentation
 - create a .gitignore file for this project
 - create a requirements.txt file
 - create a user guide for this project explaining how to set it up and how to run it
