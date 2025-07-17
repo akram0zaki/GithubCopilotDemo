@@ -7,11 +7,17 @@ python healthcheck.py --url https://google.com
 
 # Setup
 
+- Clone the repository
+git clone https://github.com/akram0zaki/GithubCopilotDemo.git
+
+- Navigate to the project directory
+cd GithubCopilotDemo
+
 - (Optional) Create a virtual environment:
 python -m venv .venv
 
 - (Optional) Activate the virtual environment:
-.\.venv\Scripts\activate.ps1
+.\.venv\Scripts\activate    (for Windows)
 
 - Install the dependencies:
 pip install requests dotenv
