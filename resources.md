@@ -1,3 +1,9 @@
+# Chat modes
+
+A listing of topic-based prompts defining required behavior and interaction patterns.
+
+[chat modes](https://github.com/github/awesome-copilot/tree/main/chatmodes)
+
 # Instructions
 
 [VSCode Custom Instructions - Guide](https://code.visualstudio.com/blogs/2025/03/26/custom-instructions)
